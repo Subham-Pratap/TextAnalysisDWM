@@ -5,8 +5,6 @@ Following is the DWM Project implemented by the 5th Sem CSE Department of IIIT B
 
 ## Features implemented:
 
-* **Data Visualisation**\
-![alt text](https://github.com/hinduBale/TextAnalysisBasics/blob/master/data_vis.PNG)
 * **Data Cleaning**\
 ![alt text](https://github.com/hinduBale/TextAnalysisBasics/blob/master/Snippets/spam1.PNG)
 ![alt text](https://github.com/hinduBale/TextAnalysisBasics/blob/master/Snippets/spam2.PNG)
