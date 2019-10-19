@@ -1,7 +1,7 @@
 # TextAnalysisDWM
 DWM project of CE Department 2019
 # Overview
-Following is the DWM Project implemented by the 5th Sem CSE Department of IIIT Bhubaneswar.
+Following is the DWM Project implemented by the 5th Sem CE Department of IIIT Bhubaneswar.
 
 ## Features implemented:
 
