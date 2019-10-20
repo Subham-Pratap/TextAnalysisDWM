@@ -14,11 +14,12 @@ Tokenization relies mostly on simple heuristics in order to separate tokens by f
 
     Tokens or words are separated by whitespace, punctuation marks or line breaks
     White space or punctuation marks may or may not be included depending on the need
-    All characters within contiguous strings are part of the token. Tokens can be made up of all alpha characters, alphanumeric characters or numeric characters only.
+    All characters within contiguous strings are part of the token. Tokens can be made up of all alpha characters, alphanumeric characters          or numeric characters only.
 
 Tokens themselves can also be separators. For example, in most programming languages, identifiers can be placed together with arithmetic operators without white spaces. Although it seems that this would appear as a single word or token, the grammar of the language actually considers the mathematical operator (a token) as a separator, so even when multiple tokens are bunched up together, they can still be separated via the mathematical operator.
 
 * **Stemming**\
+
 ![alt text](https://github.com/Rhymester/TextAnalysisDWM/blob/master/Images/stopWords.PNG)
 * **Data Wrangling and Pre-processing** 
 
@@ -40,7 +41,7 @@ Need of Data Wrangling
 
 Data Wrangling is an important aspect of implementing the model. Therefore, data is converted to the proper feasible format before applying any model to it. By performing filtering, grouping and selecting appropriate data accuracy and performance of the model could be increased.
 
-Another concept is that when time-series data has to be handled every algorithm is executed with different aspects. Therefore Data Wrangling is used to convert the time series data into the required format of the applied model. In simple words, the complex data is transformed into a usable format for performing analysis on it. 
+Another concept is that when time-series data has to be handled every algorithm is executed with different aspects. Therefore Data Wrangling is used to convert the time series data into the required format of the applied model. In simpler words, the complex data is transformed into a usable format for performing analysis on it. 
 
 * **Creation of Term-incidence Matrix**\
 ![alt text](https://github.com/Rhymester/TextAnalysisDWM/blob/master/Images/termIncidenceMatrix.PNG)
